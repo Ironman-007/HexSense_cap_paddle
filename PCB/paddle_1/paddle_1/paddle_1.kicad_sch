@@ -3,7 +3,7 @@
 	(generator "eeschema")
 	(generator_version "8.0")
 	(uuid "01f8fa12-1027-425d-ae5c-e0c61f971f2f")
-	(paper "A5")
+	(paper "User" 150 100)
 	(lib_symbols
 		(symbol "Connector:Conn_01x02_Pin"
 			(pin_names
@@ -167,176 +167,176 @@
 		)
 	)
 	(junction
-		(at 55.88 34.29)
+		(at 71.12 29.21)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "13bfa600-0f4c-4183-bc34-d10452ba78eb")
 	)
 	(junction
-		(at 64.77 44.45)
+		(at 80.01 39.37)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "1d592db7-423b-4b2f-9725-aabc0f2bb723")
 	)
 	(junction
-		(at 57.15 44.45)
+		(at 72.39 39.37)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "276c87af-b949-490c-bc6e-3470d9372648")
 	)
 	(junction
-		(at 66.04 34.29)
+		(at 81.28 29.21)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "3484e61e-668a-4904-8660-7556edfe3e04")
 	)
 	(junction
-		(at 69.85 44.45)
+		(at 85.09 39.37)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "44f46cb6-febc-4bd4-939c-a1bd9a9a1b9a")
 	)
 	(junction
-		(at 60.96 34.29)
+		(at 76.2 29.21)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "5c505a39-7958-4ef2-a27b-b44ec8fbd80a")
 	)
 	(junction
-		(at 68.58 34.29)
+		(at 83.82 29.21)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "67912fae-c63e-48c8-a006-3dbf59f91460")
 	)
 	(junction
-		(at 71.12 34.29)
+		(at 86.36 29.21)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "724e4ba5-3b66-4770-99f8-cc76917d4083")
 	)
 	(junction
-		(at 58.42 34.29)
+		(at 73.66 29.21)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "78884c0f-6174-47b3-9a5b-1dea0acbaa2e")
 	)
 	(junction
-		(at 59.69 44.45)
+		(at 74.93 39.37)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "86a94e12-9533-4403-895a-8ae5d599b554")
 	)
 	(junction
-		(at 63.5 34.29)
+		(at 78.74 29.21)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "9dc51778-f8ac-40b8-a830-aea02ec29e1c")
 	)
 	(junction
-		(at 67.31 44.45)
+		(at 82.55 39.37)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "a0c69526-ff0f-45a8-a5bf-5c173346fa09")
 	)
 	(junction
-		(at 72.39 44.45)
+		(at 87.63 39.37)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "ac0d2d7b-e999-47d6-96d0-26907425944d")
 	)
 	(junction
-		(at 73.66 34.29)
+		(at 88.9 29.21)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "aefcd85b-f228-49aa-ad3f-ad535b3f9361")
 	)
 	(junction
-		(at 54.61 44.45)
+		(at 69.85 39.37)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "de6b509a-6959-4aea-8c91-39c30ad97b0b")
 	)
 	(junction
-		(at 62.23 44.45)
+		(at 77.47 39.37)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "f71966ac-061e-4e10-b0bc-08dd86335632")
 	)
 	(no_connect
-		(at 74.93 35.56)
+		(at 90.17 30.48)
 		(uuid "01e9b771-f3d8-4299-a9ae-83d9fc98c7c8")
 	)
 	(no_connect
-		(at 69.85 35.56)
+		(at 85.09 30.48)
 		(uuid "069a8105-9662-4948-96df-6665fd2ba9d5")
 	)
 	(no_connect
-		(at 64.77 35.56)
+		(at 80.01 30.48)
 		(uuid "21080393-fb00-4cef-b632-93aa91b2180b")
 	)
 	(no_connect
-		(at 73.66 43.18)
+		(at 88.9 38.1)
 		(uuid "3dc053bc-ebc9-4aa0-937c-d819c727c2c1")
 	)
 	(no_connect
-		(at 55.88 43.18)
+		(at 71.12 38.1)
 		(uuid "472a250f-d7d0-4df1-8b47-48cd9fe139dd")
 	)
 	(no_connect
-		(at 57.15 35.56)
+		(at 72.39 30.48)
 		(uuid "5934221e-39b4-4583-9bfb-d3b74724ce60")
 	)
 	(no_connect
-		(at 76.2 43.18)
+		(at 91.44 38.1)
 		(uuid "63771323-30b2-494e-9d9f-19ac93e0fffa")
 	)
 	(no_connect
-		(at 59.69 35.56)
+		(at 74.93 30.48)
 		(uuid "639efd5c-36b3-4488-ab7b-8f53fe6a9b2d")
 	)
 	(no_connect
-		(at 58.42 43.18)
+		(at 73.66 38.1)
 		(uuid "65278807-212d-4867-842f-c1ec44c0e54f")
 	)
 	(no_connect
-		(at 67.31 35.56)
+		(at 82.55 30.48)
 		(uuid "6c2c41f4-b09a-4302-a5a0-b722aec6d755")
 	)
 	(no_connect
-		(at 54.61 35.56)
+		(at 69.85 30.48)
 		(uuid "7be395ed-8cf8-4e11-a180-3a9867ec4a7c")
 	)
 	(no_connect
-		(at 68.58 43.18)
+		(at 83.82 38.1)
 		(uuid "7ef57a09-7ec2-4c99-b3b9-9f966946bc0b")
 	)
 	(no_connect
-		(at 60.96 43.18)
+		(at 76.2 38.1)
 		(uuid "82c9d7b6-f44b-45bb-b0a8-cd60c9041244")
 	)
 	(no_connect
-		(at 72.39 35.56)
+		(at 87.63 30.48)
 		(uuid "9eb60d5e-244b-4eee-912f-2da1b98b516b")
 	)
 	(no_connect
-		(at 62.23 35.56)
+		(at 77.47 30.48)
 		(uuid "a6fdb99a-cded-44d3-bbac-afae25c49e19")
 	)
 	(no_connect
-		(at 63.5 43.18)
+		(at 78.74 38.1)
 		(uuid "bf161570-876f-4185-9ab9-40fa0e7b9ccf")
 	)
 	(no_connect
-		(at 66.04 43.18)
+		(at 81.28 38.1)
 		(uuid "d07b55b0-d6ce-46a4-b91d-8888745949d2")
 	)
 	(no_connect
-		(at 71.12 43.18)
+		(at 86.36 38.1)
 		(uuid "fdd5e7b2-e058-4157-98fc-fb80a8dbf6bd")
 	)
 	(wire
 		(pts
-			(xy 67.31 35.56) (xy 67.31 44.45)
+			(xy 82.55 30.48) (xy 82.55 39.37)
 		)
 		(stroke
 			(width 0)
@@ -346,7 +346,7 @@
 	)
 	(wire
 		(pts
-			(xy 68.58 34.29) (xy 71.12 34.29)
+			(xy 83.82 29.21) (xy 86.36 29.21)
 		)
 		(stroke
 			(width 0)
@@ -356,7 +356,7 @@
 	)
 	(wire
 		(pts
-			(xy 50.8 38.1) (xy 53.34 38.1)
+			(xy 66.04 33.02) (xy 68.58 33.02)
 		)
 		(stroke
 			(width 0)
@@ -366,7 +366,7 @@
 	)
 	(wire
 		(pts
-			(xy 71.12 34.29) (xy 73.66 34.29)
+			(xy 86.36 29.21) (xy 88.9 29.21)
 		)
 		(stroke
 			(width 0)
@@ -376,7 +376,7 @@
 	)
 	(wire
 		(pts
-			(xy 68.58 34.29) (xy 68.58 43.18)
+			(xy 83.82 29.21) (xy 83.82 38.1)
 		)
 		(stroke
 			(width 0)
@@ -386,7 +386,7 @@
 	)
 	(wire
 		(pts
-			(xy 55.88 34.29) (xy 55.88 43.18)
+			(xy 71.12 29.21) (xy 71.12 38.1)
 		)
 		(stroke
 			(width 0)
@@ -396,7 +396,7 @@
 	)
 	(wire
 		(pts
-			(xy 63.5 34.29) (xy 66.04 34.29)
+			(xy 78.74 29.21) (xy 81.28 29.21)
 		)
 		(stroke
 			(width 0)
@@ -406,7 +406,7 @@
 	)
 	(wire
 		(pts
-			(xy 59.69 44.45) (xy 62.23 44.45)
+			(xy 74.93 39.37) (xy 77.47 39.37)
 		)
 		(stroke
 			(width 0)
@@ -416,7 +416,7 @@
 	)
 	(wire
 		(pts
-			(xy 54.61 35.56) (xy 54.61 44.45)
+			(xy 69.85 30.48) (xy 69.85 39.37)
 		)
 		(stroke
 			(width 0)
@@ -426,7 +426,7 @@
 	)
 	(wire
 		(pts
-			(xy 74.93 35.56) (xy 74.93 44.45)
+			(xy 90.17 30.48) (xy 90.17 39.37)
 		)
 		(stroke
 			(width 0)
@@ -436,7 +436,7 @@
 	)
 	(wire
 		(pts
-			(xy 53.34 40.64) (xy 53.34 44.45)
+			(xy 68.58 35.56) (xy 68.58 39.37)
 		)
 		(stroke
 			(width 0)
@@ -446,7 +446,7 @@
 	)
 	(wire
 		(pts
-			(xy 57.15 44.45) (xy 59.69 44.45)
+			(xy 72.39 39.37) (xy 74.93 39.37)
 		)
 		(stroke
 			(width 0)
@@ -456,7 +456,7 @@
 	)
 	(wire
 		(pts
-			(xy 63.5 34.29) (xy 63.5 43.18)
+			(xy 78.74 29.21) (xy 78.74 38.1)
 		)
 		(stroke
 			(width 0)
@@ -466,7 +466,7 @@
 	)
 	(wire
 		(pts
-			(xy 55.88 34.29) (xy 58.42 34.29)
+			(xy 71.12 29.21) (xy 73.66 29.21)
 		)
 		(stroke
 			(width 0)
@@ -476,7 +476,7 @@
 	)
 	(wire
 		(pts
-			(xy 76.2 34.29) (xy 76.2 43.18)
+			(xy 91.44 29.21) (xy 91.44 38.1)
 		)
 		(stroke
 			(width 0)
@@ -486,7 +486,7 @@
 	)
 	(wire
 		(pts
-			(xy 62.23 44.45) (xy 64.77 44.45)
+			(xy 77.47 39.37) (xy 80.01 39.37)
 		)
 		(stroke
 			(width 0)
@@ -496,7 +496,7 @@
 	)
 	(wire
 		(pts
-			(xy 53.34 34.29) (xy 55.88 34.29)
+			(xy 68.58 29.21) (xy 71.12 29.21)
 		)
 		(stroke
 			(width 0)
@@ -506,7 +506,7 @@
 	)
 	(wire
 		(pts
-			(xy 58.42 34.29) (xy 58.42 43.18)
+			(xy 73.66 29.21) (xy 73.66 38.1)
 		)
 		(stroke
 			(width 0)
@@ -516,7 +516,7 @@
 	)
 	(wire
 		(pts
-			(xy 60.96 34.29) (xy 63.5 34.29)
+			(xy 76.2 29.21) (xy 78.74 29.21)
 		)
 		(stroke
 			(width 0)
@@ -526,7 +526,7 @@
 	)
 	(wire
 		(pts
-			(xy 66.04 34.29) (xy 68.58 34.29)
+			(xy 81.28 29.21) (xy 83.82 29.21)
 		)
 		(stroke
 			(width 0)
@@ -536,7 +536,7 @@
 	)
 	(wire
 		(pts
-			(xy 64.77 44.45) (xy 67.31 44.45)
+			(xy 80.01 39.37) (xy 82.55 39.37)
 		)
 		(stroke
 			(width 0)
@@ -546,7 +546,7 @@
 	)
 	(wire
 		(pts
-			(xy 60.96 34.29) (xy 60.96 43.18)
+			(xy 76.2 29.21) (xy 76.2 38.1)
 		)
 		(stroke
 			(width 0)
@@ -556,7 +556,7 @@
 	)
 	(wire
 		(pts
-			(xy 53.34 38.1) (xy 53.34 34.29)
+			(xy 68.58 33.02) (xy 68.58 29.21)
 		)
 		(stroke
 			(width 0)
@@ -566,7 +566,7 @@
 	)
 	(wire
 		(pts
-			(xy 69.85 35.56) (xy 69.85 44.45)
+			(xy 85.09 30.48) (xy 85.09 39.37)
 		)
 		(stroke
 			(width 0)
@@ -576,7 +576,7 @@
 	)
 	(wire
 		(pts
-			(xy 73.66 34.29) (xy 76.2 34.29)
+			(xy 88.9 29.21) (xy 91.44 29.21)
 		)
 		(stroke
 			(width 0)
@@ -586,7 +586,7 @@
 	)
 	(wire
 		(pts
-			(xy 69.85 44.45) (xy 72.39 44.45)
+			(xy 85.09 39.37) (xy 87.63 39.37)
 		)
 		(stroke
 			(width 0)
@@ -596,7 +596,7 @@
 	)
 	(wire
 		(pts
-			(xy 64.77 35.56) (xy 64.77 44.45)
+			(xy 80.01 30.48) (xy 80.01 39.37)
 		)
 		(stroke
 			(width 0)
@@ -606,7 +606,7 @@
 	)
 	(wire
 		(pts
-			(xy 62.23 35.56) (xy 62.23 44.45)
+			(xy 77.47 30.48) (xy 77.47 39.37)
 		)
 		(stroke
 			(width 0)
@@ -616,7 +616,7 @@
 	)
 	(wire
 		(pts
-			(xy 57.15 35.56) (xy 57.15 44.45)
+			(xy 72.39 30.48) (xy 72.39 39.37)
 		)
 		(stroke
 			(width 0)
@@ -626,7 +626,7 @@
 	)
 	(wire
 		(pts
-			(xy 58.42 34.29) (xy 60.96 34.29)
+			(xy 73.66 29.21) (xy 76.2 29.21)
 		)
 		(stroke
 			(width 0)
@@ -636,7 +636,7 @@
 	)
 	(wire
 		(pts
-			(xy 53.34 44.45) (xy 54.61 44.45)
+			(xy 68.58 39.37) (xy 69.85 39.37)
 		)
 		(stroke
 			(width 0)
@@ -646,7 +646,7 @@
 	)
 	(wire
 		(pts
-			(xy 72.39 44.45) (xy 74.93 44.45)
+			(xy 87.63 39.37) (xy 90.17 39.37)
 		)
 		(stroke
 			(width 0)
@@ -656,7 +656,7 @@
 	)
 	(wire
 		(pts
-			(xy 66.04 34.29) (xy 66.04 43.18)
+			(xy 81.28 29.21) (xy 81.28 38.1)
 		)
 		(stroke
 			(width 0)
@@ -666,7 +666,7 @@
 	)
 	(wire
 		(pts
-			(xy 72.39 35.56) (xy 72.39 44.45)
+			(xy 87.63 30.48) (xy 87.63 39.37)
 		)
 		(stroke
 			(width 0)
@@ -676,7 +676,7 @@
 	)
 	(wire
 		(pts
-			(xy 71.12 34.29) (xy 71.12 43.18)
+			(xy 86.36 29.21) (xy 86.36 38.1)
 		)
 		(stroke
 			(width 0)
@@ -686,7 +686,7 @@
 	)
 	(wire
 		(pts
-			(xy 54.61 44.45) (xy 57.15 44.45)
+			(xy 69.85 39.37) (xy 72.39 39.37)
 		)
 		(stroke
 			(width 0)
@@ -696,7 +696,7 @@
 	)
 	(wire
 		(pts
-			(xy 67.31 44.45) (xy 69.85 44.45)
+			(xy 82.55 39.37) (xy 85.09 39.37)
 		)
 		(stroke
 			(width 0)
@@ -706,7 +706,7 @@
 	)
 	(wire
 		(pts
-			(xy 50.8 40.64) (xy 53.34 40.64)
+			(xy 66.04 35.56) (xy 68.58 35.56)
 		)
 		(stroke
 			(width 0)
@@ -716,7 +716,7 @@
 	)
 	(wire
 		(pts
-			(xy 59.69 35.56) (xy 59.69 44.45)
+			(xy 74.93 30.48) (xy 74.93 39.37)
 		)
 		(stroke
 			(width 0)
@@ -726,7 +726,7 @@
 	)
 	(wire
 		(pts
-			(xy 73.66 34.29) (xy 73.66 43.18)
+			(xy 88.9 29.21) (xy 88.9 38.1)
 		)
 		(stroke
 			(width 0)
@@ -736,7 +736,7 @@
 	)
 	(symbol
 		(lib_id "Connector:Conn_01x02_Pin")
-		(at 45.72 38.1 0)
+		(at 60.96 33.02 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -744,7 +744,7 @@
 		(dnp no)
 		(uuid "fcdf689e-7ce2-45af-9e48-394432d2efa0")
 		(property "Reference" "J1"
-			(at 48.768 34.036 0)
+			(at 64.008 28.956 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -752,15 +752,15 @@
 			)
 		)
 		(property "Value" "Conn_01x02_Pin"
-			(at 37.084 39.116 0)
+			(at 52.324 34.036 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Footprint" ""
-			(at 45.72 38.1 0)
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_2x01_P2.54mm_Vertical"
+			(at 60.96 33.02 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -769,7 +769,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 45.72 38.1 0)
+			(at 60.96 33.02 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -778,7 +778,7 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x02, script generated"
-			(at 45.72 38.1 0)
+			(at 60.96 33.02 0)
 			(effects
 				(font
 					(size 1.27 1.27)
